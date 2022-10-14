@@ -19,5 +19,5 @@
 
 ## Assumptions:
 
--- Try to optimize the website
--- Lighthouse report pretty good
+- Try to optimize the website
+- Lighthouse report pretty good
