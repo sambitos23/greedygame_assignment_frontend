@@ -1,5 +1,9 @@
 # Landing Page Assignment GreedyGame
 
+## 👨‍💻 Live Demo
+
+Try out the website : [Landing Page GreedyGame](https://greedygame-seven.vercel.app/)
+
 ## Features:
 
 - Fully responsive website.
@@ -21,3 +25,30 @@
 
 - Try to optimize the website
 - Lighthouse report pretty good
+
+## Lighthouse Report
+
+![Lighthouse Report](screenshot/lighthouse.JPG)
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn install`
+
+To install all the packages in package.json. This will install all the dependencies and devDependencies.
+
+### `yarn dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+## 🚀 Project Output
+
+![Landing Page](screenshot/landing_page.JPG)

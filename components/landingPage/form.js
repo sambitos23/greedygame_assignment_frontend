@@ -27,7 +27,6 @@ export default function Form() {
 
   const ph_number_pattern =
     /^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/;
-  console.log(values.email.match(email_pattern));
   const handleSubmit = () => {
     if (values.email.match(email_pattern) === null) {
       setErrorEmail(true);
